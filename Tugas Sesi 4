@@ -2,7 +2,7 @@
  * @KeteranganFile Tugas Array_Sesi ke 4_Muhammad Harist Naufal
  * @author Julhan
  */
-public class Tugas_Sesi4_JulhanAbdulMalik {
+public class Tugas_Sesi4_Muhammad Harist Naufal {
     public static void main(String[] args) {
         System.out.println("================================================");
         System.out.println("- Tugas Array - Sesi ke 4 - Muhammad Harist Naufal -");
